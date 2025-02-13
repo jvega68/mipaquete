@@ -11,7 +11,8 @@ issues](https://img.shields.io/github/issues/jvega68/mipaquete)](https://github.
 pulls](https://img.shields.io/github/issues-pr/jvega68/mipaquete)](https://github.com/jvega68/mipaquete/pulls)
 <!-- badges: end -->
 
-The goal of `mipaquete` is to …
+The goal of `mipaquete` is to to put in one place all the functions that
+I use in my daily work.
 
 ## Installation instructions
 
